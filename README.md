@@ -1,6 +1,6 @@
 # FailingIsLearning
 
-1. Failure leades to fear
+1. Failure leads to fear
 2. Fear leads to suffering
 3. Suffering leads to the dark side
 
