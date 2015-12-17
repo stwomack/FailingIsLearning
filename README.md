@@ -1,14 +1,19 @@
 # FailingIsLearning
-I already said it
 
-Failure is a learning opportunity.
+Failure leades to fear
+Fear leads to suffering
+Suffering leads to the dark side
 
-Seriously, Failure is the greatest learning opportunity we can possibly exploit.
+Failure leads to learning
+Learning leads to options
+Options lead to success
 
-Nobody should fail on purpose; that's stupid and doesn't make sense
+Failure is the greatest learning opportunity we can possibly exploit.
 
-But when we fail, we have an opportunity to learn
+Nobody should fail on purpose; that's stupid and doesn't make sense.
 
-Learn like crazy
+But when we fail, we have an opportunity to learn.
 
-When we bury failure in lies and jedi mind tricks, we'll repeat them, because we didn't take the opportunity to learn from them
+Learn like crazy.
+
+When we bury failure in lies and jedi mind tricks, we'll repeat them, because we didn't take the opportunity to learn from them.
