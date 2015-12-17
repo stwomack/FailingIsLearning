@@ -1,12 +1,12 @@
 # FailingIsLearning
 
-Failure leades to fear
-Fear leads to suffering
-Suffering leads to the dark side
+* Failure leades to fear
+* Fear leads to suffering
+* Suffering leads to the dark side
 
-Failure leads to learning
-Learning leads to options
-Options lead to success
+* Failure leads to learning
+* Learning leads to options
+* Options lead to success
 
 Failure is the greatest learning opportunity we can possibly exploit.
 
