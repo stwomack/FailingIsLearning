@@ -1,8 +1,8 @@
 # FailingIsLearning
 
 1. Failure leads to fear
-2. Fear leads to suffering
-3. Suffering leads to the dark side
+2. Fear leads to anger
+3. Anger leads to hate
 
 OR
 
@@ -10,9 +10,7 @@ OR
 2. Learning leads to options
 3. Options lead to success
 
-Failure is the greatest learning opportunity we can possibly exploit.
-
-Nobody should fail on purpose; that's stupid and doesn't make sense.
+Failure is the greatest learning opportunity we can possibly exploit. It *can* lead to fear. It doesn't have to lead to anger, or hate
 
 But when we fail, we have an opportunity to learn.
 
