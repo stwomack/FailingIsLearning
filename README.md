@@ -10,7 +10,7 @@ OR
 2. Learning leads to options
 3. Options lead to success
 
-Failure is the greatest learning opportunity we can possibly exploit. It *can* lead to fear. It doesn't have to lead to anger, or hate
+Failure is the greatest learning opportunity we can possibly exploit. It *can* lead to fear. It shouldn't have to lead to anger, or hate
 
 But when we fail, we have an opportunity to learn.
 
